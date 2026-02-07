@@ -1,0 +1,10 @@
+    }
+    .guestbook-container {
+        grid-template-columns: 1fr;
+    }
+    .contact-info {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
